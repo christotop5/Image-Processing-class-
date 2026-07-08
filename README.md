@@ -1,12 +1,8 @@
-# TP Traitement d'images — INF372 (Dr Tapamo)
+# TP Traitement d'images — INF372 (INF-L3 UY1)
 
 Implémentation modulaire en **C** de tous les traitements présents dans les
 supports de cours, avec une interface interactive en ligne de commande et une
 compilation gérée par **Make**.
-
-> Pour **comprendre et savoir défendre** le projet (concepts, formules,
-> décisions de conception, questions de soutenance), lis le guide d'étude
-> [`COMPRENDRE.md`](COMPRENDRE.md).
 
 ---
 
